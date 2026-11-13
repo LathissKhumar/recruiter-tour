@@ -21,6 +21,8 @@
 **Email:** [pklathisskhumar.cse2024@citchennai.net](mailto:pklathisskhumar.cse2024@citchennai.net)  
 **GitHub:** [github.com/LathissKhumar](https://github.com/LathissKhumar)
 
+**Repo Links:** [AgencyOS-](https://github.com/LathissKhumar/AgencyOS-) • [RAG_PIPELINE](https://github.com/LathissKhumar/RAG_PIPELINE) • [CanonPulse](https://github.com/LathissKhumar/CanonPulse) • [DepthWizard](https://github.com/LathissKhumar/DepthWizard)
+
 ---
 
 ## 🗂️ Project Index
@@ -37,7 +39,7 @@
 
 ## 1️⃣ AgencyOS — Self-Healing Agentic AI Platform
 
-**🔗 Repo:** `github.com/LathissKhumar/AgencyOS`  
+**🔗 Repo:** `github.com/LathissKhumar/AgencyOS-`  
 **🎯 Problem:** Building reliable multi-agent systems is hard — agents fail silently, schemas drift, and there's no deterministic way to verify health.
 
 **🛠️ My Approach:**
@@ -65,7 +67,7 @@
 
 ## 2️⃣ RAG-Based Intelligent Document QA — Production RAG Pipeline
 
-**🔗 Repo:** `github.com/LathissKhumar/RAG-Document-QA`  
+**🔗 Repo:** `github.com/LathissKhumar/RAG_PIPELINE`  
 **🎯 Problem:** Naive RAG fails on real documents — poor chunking, no evaluation, hallucinations.
 
 **🛠️ My Approach:**
@@ -227,7 +229,7 @@
 
 **Ready to chat?**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Message-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/lathisskhumar)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pklathisskhumar.cse2024@citchennai.net)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=maildotru&logoColor=white&style=for-the-badge)](mailto:pklathisskhumar.cse2024@citchennai.net)
 
 > **Availability:** Immediate for internships • 4–6 month duration preferred • Conversion to full-time expected
 
